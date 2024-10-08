@@ -1,6 +1,5 @@
-# PROJECT
+# CRUD Application in PHP
 
-CRUD Application in PHP
 This is a simple CRUD (Create, Read, Update, Delete) application built with PHP and MySQL. It allows users to manage a list of students, with functionalities to add, view, update, and delete student records.
 
 Features
